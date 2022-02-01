@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @satrams
+- 👀 I’m interested in programming, game development, animation, and anything else technology related
+- 🌱 I’m currently learning game development
+- I make games, help build robots, and pretty much just program a bunch of things.
