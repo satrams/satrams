@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @satrams
 - 👀 I’m interested in programming, robotics, artificial intelligence, game development, animation, and anything else technology related
-- 🌱 I’m currently learning about low-level systems and AI in Introduction to Computer Systems and Concepts of Artificial Intelligence
-- I make games with friends, work on a quadruped robot as the head of autonomy and simulation, and do an assortment of other things that pique my interest
+
