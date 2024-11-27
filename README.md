@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in programming, robotics, artificial intelligence, game development, animation, and anything else technology related
-
+- 👀 I’m interested in robotics, artificial intelligence, game development, animation, and pretty much anything else technology-related!
